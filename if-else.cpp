@@ -28,8 +28,16 @@ int main()
     //         cout << "A is Big";
     //     }
     // } else if(
-        
+
     // )
-    
+
+    // int numOne, numTwo, sum = 0;
+    // cin >> numOne >> numTwo;
+    // if (numOne > 10 && numTwo < 50)
+    // {
+    //     sum = numOne + numTwo;
+    // }
+
+    // cout << sum << endl;
     return 0;
 }
